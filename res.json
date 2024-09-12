@@ -1,0 +1,542 @@
+{
+  "status": 0,
+  "data": {
+    "ownerId": "0x95eca036a8c4dee818a6ed791922324e4ccb3531",
+    "rank": -1,
+    "tournaments": [
+      {
+        "type": "rank",
+        "startTime": 1721390400000,
+        "endTime": 1721988000000,
+        "leaderBoard": [
+          {
+            "walletId": "0x3ca70b48f2ccef460623859acb0d55885ab49be9",
+            "point": 71,
+            "rank": 1
+          },
+          {
+            "walletId": "0x5f502374aaa87c053018a76358e956bd157bf056",
+            "point": 49,
+            "rank": 2
+          },
+          {
+            "walletId": "0x1120a3602e4198ed280cb2e548af6cd211b8238b",
+            "point": 15,
+            "rank": 3
+          },
+          {
+            "walletId": "0x8a0542352831e17d85effa3877abd9c6ec232ef7",
+            "point": 13,
+            "rank": 4
+          },
+          {
+            "walletId": "0xa06a171dcb31cede21f885a6d41d2ba9a905d851",
+            "point": 13,
+            "rank": 5
+          },
+          {
+            "walletId": "0x02e79f674b612dcc9edc9f583340da0d0dddb97c",
+            "point": 5,
+            "rank": 6
+          },
+          {
+            "walletId": "0x9e48add17f2857a943fe4fab8fe8c90124bfca82",
+            "point": 3,
+            "rank": 7
+          },
+          {
+            "walletId": "ai2",
+            "point": 3,
+            "rank": 8
+          },
+          {
+            "walletId": "0x8b94ca94039a5ed1df6ad249aff30912e384c182",
+            "point": 3,
+            "rank": 9
+          },
+          {
+            "walletId": "0xe496d2ae5c701f221dd037606a75e1439905319a",
+            "point": 2,
+            "rank": 10
+          },
+          {
+            "walletId": "0x4ca2978af6e6db9ae66ad6caf78bca2918ef3959",
+            "point": 1,
+            "rank": 11
+          },
+          {
+            "walletId": "0xfb1a6142db77ede198ddfc93c787e59fe2701c6e",
+            "point": 1,
+            "rank": 12
+          },
+          {
+            "walletId": "0x670f376bf618473f432be5111329c838deb8a3e3",
+            "point": 1,
+            "rank": 13
+          },
+          {
+            "walletId": "0x1e54826bdcd2945f306daf6cb5d28ef4f133b5d1",
+            "point": 1,
+            "rank": 14
+          },
+          {
+            "walletId": "0x74ee7385c080d906c5b8f4ac309a9d7b23e98820",
+            "point": 1,
+            "rank": 15
+          },
+          {
+            "walletId": "0xbc24ac05cc97360efce53f38fa546fa8cdefb603",
+            "point": 1,
+            "rank": 16
+          },
+          {
+            "walletId": "0x5ba0030bf9dc49e58f8c1b8b4361d9cb3ae5e8ff",
+            "point": 1,
+            "rank": 17
+          },
+          {
+            "walletId": "0x40eea67ecc951b515caac8f6ff962b4b43239711",
+            "point": 0,
+            "rank": 18
+          },
+          {
+            "walletId": "0x0a03bbb0051168b1decce9724eae5c6ed1822d20",
+            "point": 0,
+            "rank": 19
+          },
+          {
+            "walletId": "0x6657d3bcb35c63202c7c6dc248627d69cf6e35ba",
+            "point": 0,
+            "rank": 20
+          },
+          {
+            "walletId": "0xfba3417bb7bf21baf55c8ff15135c7e596871d56",
+            "point": 0,
+            "rank": 21
+          },
+          {
+            "walletId": "0x825accdf3c625337d7f8001387be78c1f57bfca0",
+            "point": 0,
+            "rank": 22
+          },
+          {
+            "walletId": "0x7ab212fc7db52b4382a37f6c8f49ba601cb9af8a",
+            "point": 0,
+            "rank": 23
+          },
+          {
+            "walletId": "0x4da8c205fc25cc98176971db5adb8182bf943899",
+            "point": 0,
+            "rank": 24
+          },
+          {
+            "walletId": "0xf5f56530633e6b85a6dfaffed91b5861ace47876",
+            "point": 0,
+            "rank": 25
+          },
+          {
+            "walletId": "0xad8020a659d36704a6705cce732755a74ef02443",
+            "point": 0,
+            "rank": 26
+          },
+          {
+            "walletId": "0x4974ca319c67ce586befcb0840f4071f3571484b",
+            "point": 0,
+            "rank": 27
+          },
+          {
+            "walletId": "0x9f380a0d79ff738429afdd84e9db432dbb75ccbe",
+            "point": 0,
+            "rank": 28
+          },
+          {
+            "walletId": "0x1913bf4c77ba3baa2519e7eecedd3b06384270ba",
+            "point": 0,
+            "rank": 29
+          },
+          {
+            "walletId": "0x383b2b76250a37ae54a99b9c2f525e6561e23184",
+            "point": 0,
+            "rank": 30
+          },
+          {
+            "walletId": "0xd0b3b17a44ce42a712a1c50aa023375578ae722c",
+            "point": 0,
+            "rank": 31
+          },
+          {
+            "walletId": "0xa0d632b105d8ce64608cce40222f6ea399ac9e47",
+            "point": 0,
+            "rank": 32
+          },
+          {
+            "walletId": "0xd47c4f69a7302f7a049f212a112309da83fd5a46",
+            "point": 0,
+            "rank": 33
+          },
+          {
+            "walletId": "0x2cd00503f1ca170ca76a7ad54f6e674228ff985e",
+            "point": 0,
+            "rank": 34
+          },
+          {
+            "walletId": "0x465ff0ae9b215f38f67496860c31019ceba44995",
+            "point": 0,
+            "rank": 35
+          },
+          {
+            "walletId": "0x161d54817a90bd9946db1ff7164c1c5cd871fee5",
+            "point": 0,
+            "rank": 36
+          },
+          {
+            "walletId": "0x73eb2784138238ce4376a39bf5ec7079f487f820",
+            "point": 0,
+            "rank": 37
+          },
+          {
+            "walletId": "0x13207e49f4aad423ff065d9caf7d906ec4b742bc",
+            "point": 0,
+            "rank": 38
+          },
+          {
+            "walletId": "0x72c2422719ca31c6dff0c57e7274bed013597069",
+            "point": 0,
+            "rank": 39
+          },
+          {
+            "walletId": "0x3778aeec8d59da518c137a41357f5a4c0fa836ed",
+            "point": 0,
+            "rank": 40
+          },
+          {
+            "walletId": "0x046566653d4852eb963223b2340d6ed2e780f950",
+            "point": 0,
+            "rank": 41
+          },
+          {
+            "walletId": "0xb688bf65da69590d7069f34a85d667251c54c100",
+            "point": 0,
+            "rank": 42
+          },
+          {
+            "walletId": "0x9de678fb1baf50ba0ab7dbec0fe04344a56c4bd5",
+            "point": 0,
+            "rank": 43
+          },
+          {
+            "walletId": "0xdf8a05d68c2f07c4519b77a532bed504cf25ca4a",
+            "point": 0,
+            "rank": 44
+          },
+          {
+            "walletId": "0x8a3978e7d50f322cefa22b821cb006724fb47908",
+            "point": 0,
+            "rank": 45
+          },
+          {
+            "walletId": "0x40800e2cbe4090d8fc0a5953dbab4053baafb9d1",
+            "point": 0,
+            "rank": 46
+          },
+          {
+            "walletId": "0x57060c12efce3cf04ad2c4e6999c3597805bd8bf",
+            "point": 0,
+            "rank": 47
+          },
+          {
+            "walletId": "0xf68a44f546d190cda84bc19785aa45469ca5a12f",
+            "point": 0,
+            "rank": 48
+          },
+          {
+            "walletId": "0x53f5fbbb7744a6702c3c5b7f431c5b53e18e649b",
+            "point": 0,
+            "rank": 49
+          },
+          {
+            "walletId": "0x1ebf59d1ad7c220c569a70fd636b4ce42f8bd010",
+            "point": 0,
+            "rank": 50
+          },
+          {
+            "walletId": "0x47844d36aeb6ee50b1a9b497c48c7355011ab665",
+            "point": 0,
+            "rank": 51
+          },
+          {
+            "walletId": "0xa38e768eb6875ec8034a7a21f88636d9591ee882",
+            "point": 0,
+            "rank": 52
+          },
+          {
+            "walletId": "0x61518e0263f34c14b29d9f33eb1adf592fe92606",
+            "point": 0,
+            "rank": 53
+          },
+          {
+            "walletId": "0x9115d64bdc029a78c0dacad8204e09347bbe86a1",
+            "point": 0,
+            "rank": 54
+          },
+          {
+            "walletId": "0x527aa49d2f2620d2ef033cc39a095b487bf26a66",
+            "point": 0,
+            "rank": 55
+          },
+          {
+            "walletId": "0xe1da2b1de38cfa26222a8a7008846b31328f62b8",
+            "point": 0,
+            "rank": 56
+          },
+          {
+            "walletId": "0x4c9e859df1bcb176bab6c1c6977cfee7088fb6e4",
+            "point": 0,
+            "rank": 57
+          },
+          {
+            "walletId": "0xf62f23de1ec67b615d87f58c13bc3f59cd8a05b9",
+            "point": 0,
+            "rank": 58
+          },
+          {
+            "walletId": "0x162714e526d28dc0e64be63d60caf200e125c839",
+            "point": 0,
+            "rank": 59
+          },
+          {
+            "walletId": "0x731753812cd94faab7d49be4af9e1ac88b64adaf",
+            "point": 0,
+            "rank": 60
+          },
+          {
+            "walletId": "0x26d8136815929fb657286f7cef8848edddf961a1",
+            "point": 0,
+            "rank": 61
+          },
+          {
+            "walletId": "0x2c9a6349d83a429acc1cae8dc29d9c54ddea9cc0",
+            "point": 0,
+            "rank": 62
+          },
+          {
+            "walletId": "0x08e1975059f4d978943af5dc301743f15c860ea0",
+            "point": 0,
+            "rank": 63
+          },
+          {
+            "walletId": "0xa62a417e1946d7f3175309aa64cd8b79b8ad79ec",
+            "point": 0,
+            "rank": 64
+          },
+          {
+            "walletId": "0xda0cced46755681f18eec26e0b0a8524840c377a",
+            "point": 0,
+            "rank": 65
+          },
+          {
+            "walletId": "0x81007d03f596e53ed5cd1ee9eb32aebb6d9e2c9d",
+            "point": 0,
+            "rank": 66
+          },
+          {
+            "walletId": "0xbcd8f1a0400978311d46e3e3f93db57366a6aff6",
+            "point": 0,
+            "rank": 67
+          },
+          {
+            "walletId": "0xc15e015efc0e68d04d5cdd226f4c135a3a6a7186",
+            "point": 0,
+            "rank": 68
+          },
+          {
+            "walletId": "0xc8cb93a4ebec6ced28b38ae7232a470c44592530",
+            "point": 0,
+            "rank": 69
+          },
+          {
+            "walletId": "0x40a3393ef22da6cceaf777c214176f3336d95a7d",
+            "point": 0,
+            "rank": 70
+          },
+          {
+            "walletId": "0xf3dbcfbc6af33e048726b19a5bfe5328823f57d8",
+            "point": 0,
+            "rank": 71
+          },
+          {
+            "walletId": "0xe39738f1a1ee12874366d7ef82bad0f0ceac5709",
+            "point": 0,
+            "rank": 72
+          },
+          {
+            "walletId": "0x3f81f2a9b6b78c520186693a0c6b9ee44004202e",
+            "point": 0,
+            "rank": 73
+          },
+          {
+            "walletId": "0x917b7d6d412969f3c82f7d47e4007a50e7610200",
+            "point": 0,
+            "rank": 74
+          },
+          {
+            "walletId": "0x62c3d8b13ccc14e1b8e3665c27d3963645d6a726",
+            "point": 0,
+            "rank": 75
+          },
+          {
+            "walletId": "0xadca3e36a52bc38ada7547c0a05782096315691e",
+            "point": 0,
+            "rank": 76
+          },
+          {
+            "walletId": "0xb6497ff6796f372912374e4f8900f81c27f311e1",
+            "point": 0,
+            "rank": 77
+          },
+          {
+            "walletId": "0x6c2ba8fc4074c710fc958fc5c2bb091d7786ce6f",
+            "point": 0,
+            "rank": 78
+          },
+          {
+            "walletId": "0x92e8629340ac8885aa2291d91f2df35a21c72bcd",
+            "point": 0,
+            "rank": 79
+          },
+          {
+            "walletId": "0xe778728f9e08fcc212beccb44b1884d54826bc5c",
+            "point": 0,
+            "rank": 80
+          },
+          {
+            "walletId": "0x87303bf1cb96e404228769baca1f97dec4a82831",
+            "point": 0,
+            "rank": 81
+          },
+          {
+            "walletId": "0x9a5badab548910458494b19ec2fb637071808df0",
+            "point": 0,
+            "rank": 82
+          },
+          {
+            "walletId": "0xaf8d793fc6efb22666ba9667e6c115133d186cab",
+            "point": 0,
+            "rank": 83
+          },
+          {
+            "walletId": "0x3166543d740e3cf0ec9d7001a61968b6d4baa00d",
+            "point": 0,
+            "rank": 84
+          },
+          {
+            "walletId": "0x28b61531183f5c680117b948312889db89a94ede",
+            "point": 0,
+            "rank": 85
+          },
+          {
+            "walletId": "0xee1b68d7ec9805ad8c06402f1894a675bd36801f",
+            "point": 0,
+            "rank": 86
+          },
+          {
+            "walletId": "0xcd2cc3a73967b1f4e2b6861bb032150fae91b68f",
+            "point": 0,
+            "rank": 87
+          },
+          {
+            "walletId": "0x33c3a5afb7da383735e60df6ecc4c4a0b7930e67",
+            "point": 0,
+            "rank": 88
+          },
+          {
+            "walletId": "0x5ae0042f45744880bd9430ef7e01670f098b2296",
+            "point": 0,
+            "rank": 89
+          },
+          {
+            "walletId": "0x0e3ca0ee71038c168ec10c277d61cc309e4af505",
+            "point": 0,
+            "rank": 90
+          },
+          {
+            "walletId": "0xb9f16b42d7e997a9170c7f0923e7afcc83806458",
+            "point": 0,
+            "rank": 91
+          },
+          {
+            "walletId": "0x5f7838f4682f2c15f7177b306152af81c521b6bf",
+            "point": 0,
+            "rank": 92
+          },
+          {
+            "walletId": "0xad54601d379dd9e96a23f24c7e5c23500961ef14",
+            "point": 0,
+            "rank": 93
+          },
+          {
+            "walletId": "0xc7e775a068b898e24ca03d6c565807a48ee86f01",
+            "point": 0,
+            "rank": 94
+          },
+          {
+            "walletId": "0x0b6a7cc06b355e40da5eaa70714f0e9ee582310a",
+            "point": 0,
+            "rank": 95
+          },
+          {
+            "walletId": "0xa75af2ddc96b030497cb2ebaf687138dbc8f143a",
+            "point": 0,
+            "rank": 96
+          },
+          {
+            "walletId": "0xa016a45c48af9a2303d378aa0ade488a9597e84e",
+            "point": 0,
+            "rank": 97
+          },
+          {
+            "walletId": "0xcbdd967e8af8b21b99b3dcce85d56b69263ceafe",
+            "point": 0,
+            "rank": 98
+          },
+          {
+            "walletId": "0x8bd5ae7e17ca9a4d0adf5b33b26ddc41b5f35342",
+            "point": 0,
+            "rank": 99
+          },
+          {
+            "walletId": "0x7237cb6290279abb6e91130fb83e395640f23eae",
+            "point": 0,
+            "rank": 100
+          }
+        ]
+      }
+    ],
+    "point": 0,
+    "winNo": 0,
+    "loseNo": 0,
+    "serverTime": 1721702402966,
+    "gemAmount": 11340.620709101117,
+    "needGem": 0,
+    "rewardGem": {
+      "top1": 152527,
+      "top2": 97517,
+      "top3": 68512,
+      "top4": 50009,
+      "top5": 33506,
+      "top6": 27004,
+      "top7": 21003,
+      "top8": 18503,
+      "top9": 16502,
+      "top10": 15002
+    },
+    "claimReward": 153350.94999999998,
+    "nextTournaments": [
+      {
+        "tournamentId": 4,
+        "startTime": 1721995200000,
+        "endTime": 1722592800000
+      }
+    ]
+  }
+}
